@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "229366906189",
+    "project_id": "kharcha-bachat",
+    "storage_bucket": "kharcha-bachat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229366906189:android:84ad9e8b27e2c7074a0b04",
+        "android_client_info": {
+          "package_name": "com.example.kharcha_bachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229366906189-mbmm5kd7tms8tgloffq2b5g5m2ed8ra9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kharcha_bachat",
+            "certificate_hash": "581ef1d87410b88d1cc8b92c182689f7d7de429e"
+          }
+        },
+        {
+          "client_id": "229366906189-mr51n1nhlm6qcgq0n295lmla19srrnga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqmFWih8wdG-ckwUCd_2FBx3T5XGuz6eM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229366906189-mr51n1nhlm6qcgq0n295lmla19srrnga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
